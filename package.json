@@ -1,9 +1,12 @@
 {
-	"name": "url-regex",
+	"name": "@tactivos/url-regex",
 	"version": "5.0.0",
 	"description": "Regular expression for matching URLs",
 	"license": "MIT",
-	"repository": "kevva/url-regex",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/tactivos/url-regex.git"
+	},
 	"author": {
 		"name": "Kevin Mårtensson",
 		"email": "kevinmartensson@gmail.com",

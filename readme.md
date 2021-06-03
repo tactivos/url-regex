@@ -2,6 +2,11 @@
 
 > Regular expression for matching URLs
 
+## Source
+
+Forked from [url-regex](https://github.com/kevva/url-regex) so we can improve the compability with IE11 or other browsers.
+Needed for consuming it from surface hubs or windows app.
+
 Based on this [gist](https://gist.github.com/dperini/729294) by Diego Perini.
 
 
