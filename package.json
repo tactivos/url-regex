@@ -38,7 +38,9 @@
 	},
 	"xo": {
 		"rules": {
-			"prefer-object-spread": 0
+			"prefer-object-spread": 0,
+			"prefer-arrow-callback": 0,
+			"no-var": 0
 		}
 	}
 }
