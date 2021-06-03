@@ -35,5 +35,10 @@
 		"ava": "^1.4.1",
 		"tsd": "^0.7.2",
 		"xo": "^0.24.0"
+	},
+	"xo": {
+		"rules": {
+			"prefer-object-spread": 0
+		}
 	}
 }
